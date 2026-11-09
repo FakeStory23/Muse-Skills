@@ -1,0 +1,22 @@
+# Mobile & Aplikasi
+
+Jumlah skill: **18** dari total 788. Kembali ke [katalog lengkap](../katalog.md) atau [README](../README.md).
+
+- **`android-clean-architecture`** — Arsitektur bersih pola untuk Android dan Kotlin Multiplatform proyek — modul struktur, dependency aturan, UseCases, Repositori, dan data lapisan pola (Sumber: [repo](https://github.com/affaan-m/ECC); Lisensi: -)
+- **`aso`** — Membantu audit atau mengoptimalkan sebuah Aplikasi Menyimpan atau Google Play mendaftar (Sumber: [repo](https://github.com/coreyhaines31/marketingskills); Lisensi: -)
+- **`bama-code`** — Tahap Code dari BAMA untuk membangun aplikasi macOS native (Swift/SwiftUI): aturan Swift 6 dan SwiftUI, integrasi macOS, performa, arsitektur, dan CLI/MCP untuk agen (Sumber: -; Lisensi: MIT)
+- **`bama-plan`** — Tahap Plan dari BAMA untuk aplikasi macOS native (Swift/SwiftUI): riset paralel pasar/pengguna/fitur/desain/API macOS, screenshot setiap layar aplikasi referensi menjadi indeks… (Sumber: -; Lisensi: MIT)
+- **`bama-ship`** — Tahap Ship dari BAMA untuk aplikasi macOS native (Swift/SwiftUI): build dan verifikasi dengan snapshot terang-gelap, pengujian tiga level, dan loop perbaikan backlog satu story… (Sumber: [repo](https://github.com/daveebbelaar/bama); Lisensi: -)
+- **`bama-start`** — Tahap Memulai BAMA — mulai membangun aplikasi macOS native (Swift/SwiftUI): pilih langkah berikutnya (bama), tulis singkat satu halaman (app-brief), lalu scaffold aplikasi dari… (Sumber: -; Lisensi: -)
+- **`cisco-ios-patterns`** — Cisco iOS dan iOS-XE tinjauan pola untuk menampilkan perintah, config hierarchy, wildcard masks, ACL placement, antarmuka hygiene, dan safe change-window verification (Sumber: [repo](https://github.com/affaan-m/ECC); Lisensi: -)
+- **`dart-flutter-patterns`** — Siap produksi Dart dan Flutter pola mencakup null keselamatan, immutable keadaan dengan Freezed, async composition, widget arsitektur, keadaan manajemen (BLoC, Riverpod,… (Sumber: [repo](https://github.com/affaan-m/ECC); Lisensi: -)
+- **`ios-icon-gen`** — Menghasilkan aplikasi iOS ikon sebagai PNG imagesets untuk Xcode aset catalogs dari SF Simbol (5000+ Apple-native) atau Iconify API (275k+ open source ikon dari 200+ koleksi) (Sumber: [repo](https://github.com/affaan-m/ECC); Lisensi: -)
+- **`kotlin-coroutines-flows`** — Kotlin Coroutines dan Flow pola untuk Android dan KMP — struktur konkurensi, Flow operator, StateFlow, kesalahan menangani, dan pengujian (Sumber: [repo](https://github.com/affaan-m/ECC); Lisensi: -)
+- **`kotlin-exposed-patterns`** — JetBrains Exposed ORM pola termasuk DSL kueri, DAO pola, transaksi, HikariCP connection kolam, Flyway migrasi, dan pola repositori (Sumber: [repo](https://github.com/affaan-m/ECC); Lisensi: -)
+- **`kotlin-ktor-patterns`** — Ktor server pola termasuk rute DSL, plugins, autentikasi, Koin DI, kotlinx.serialization, WebSocket, dan testApplication pengujian (Sumber: [repo](https://github.com/affaan-m/ECC); Lisensi: -)
+- **`kotlin-patterns`** — Idiomatic Kotlin pola, praktik terbaik, dan conventions untuk membangun robust, efisien, dan maintainable Kotlin aplikasi dengan coroutines, null keselamatan, dan DSL pembangun (Sumber: [repo](https://github.com/affaan-m/ECC); Lisensi: -)
+- **`react-native-patterns`** — React Native dan Expo aplikasi pola — Expo Router navigation, keadaan separation (server/client/route/form), TanStack Kueri data mengambil dengan Zod, performant mendaftar,… (Sumber: [repo](https://github.com/affaan-m/ECC); Lisensi: -)
+- **`replica-app-clone`** — Merekayasa balik dan mengkloning aplikasi mobile menjadi codebase Expo / React Native yang jalan, dari folder screenshot berisi berbagai state aplikasi (Sumber: [repo](https://github.com/Birkenpapier/ai-app-cloner); Lisensi: MIT)
+- **`swift-actor-persistence`** — Thread-safe data persistence di Swift menggunakan aktor — dalam memori cache dengan file-backed storage, eliminating data races oleh merancang (Sumber: [repo](https://github.com/affaan-m/ECC); Lisensi: -)
+- **`swift-concurrency-6-2`** — Swift 6.2 Approachable Konkurensi — single-threaded oleh bawaan, @konkuren untuk explicit latar offloading, isolated conformances untuk utama aktor jenis (Sumber: [repo](https://github.com/affaan-m/ECC); Lisensi: -)
+- **`swiftui-patterns`** — SwiftUI arsitektur pola, keadaan manajemen dengan @Observable, tampilan composition, navigation, optimasi kinerja, dan modern iOS/macOS UI praktik terbaik (Sumber: [repo](https://github.com/affaan-m/ECC); Lisensi: -)
